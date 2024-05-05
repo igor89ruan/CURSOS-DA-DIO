@@ -50,4 +50,4 @@ const menor10 = alunos.some((aluno => aluno.idade < 10));
 const menorDequenoventa = alunos.every((aluno => aluno.idade < 90));
 
 console.log(menor10);
-console.log(menorDequenoventa);
+console.log(menorDequenoventa); 
